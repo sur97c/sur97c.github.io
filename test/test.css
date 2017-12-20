@@ -1,5 +1,4 @@
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: red;
-text-decoration-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;
+    color: rgb(33, 9, 65);
 }
