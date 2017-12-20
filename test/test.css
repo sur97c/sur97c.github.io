@@ -1,5 +1,33 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;
-    color: rgb(33, 9, 65);
+    color: rgb(33, 9, 65);}
     
+h1{color:rgb(2, 2, 34); font-size: 20px}
+div#menu {
+width: 200px;
+margin-top: 50px;
 }
+
+div#menu ul{
+list-style: none;
+}
+
+div#menu ul li{
+margin-top: 15px;
+font-family: tahoma;
+font-size:18px;
+background-color:#639bb3;
+width:160px;
+padding-top:10px;
+padding-bottom:10px;
+border-radius:0px 20px 20px 0px;
+padding-left:20px;
+box-shadow:5px 0px 10px #939393;
+-webkit-transition:padding-left 0.6s;
+color:white;
+}
+
+
+
+
+
