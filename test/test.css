@@ -30,12 +30,26 @@ div#menu ul li:hover{
 padding: 50px;
 
 }
-table{border-inline-end-style: 50px;
 
+table {
+    
+border:1px solid #000000; 
+border-collapse: collapse;
+width: 500px;
+}
+
+table td {
+    border: 1px solid #000000;
+    padding: 20px;
+}
+
+table tr:hover {
+background: #ccc;
 
 
 }
 
-
-
-
+table td:hover {
+background: #000000;
+color: #ffffff;
+}
