@@ -26,30 +26,32 @@ box-shadow:5px 0px 10px #939393;
 -webkit-transition:padding-left 0.6s;
 color:white;
 }
-div#menu ul li:hover{
-padding: 50px;
+body{
+    background: #5a5758;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main-container{
+margin: 150px auto;
+width: 600px;
+}
+table{
+background-color: black;
+text-align: left;
+width: 100%;
 
 }
 
-table {
-    
-border:1px solid #000000; 
-border-collapse: collapse;
-width: 500px;
+th, td {
+border: solid 1px black;
+padding: 0;
 }
 
-table th {
-    border: 1px solid #000000;
-    padding: 20px;
+tr:nth-child(even){
+background-color: #ddd;
 }
 
-table tr:hover {
-background: #ccc;
-
-
-}
-
-table th:hover {
-background: #000000;
-color: #ffffff;
+tr:hover td{
+    background-color: #369681;
+    color: white;
 }
