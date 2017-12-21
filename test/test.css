@@ -26,3 +26,8 @@ box-shadow:5px 0px 10px #939393;
 -webkit-transition:padding-left 0.6s;
 color:white;
 }
+h1{
+    letter-spacing: 0px;
+    font-family:tahoma;
+    background: #639bb3;
+}
