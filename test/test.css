@@ -29,5 +29,12 @@ color:white;
 body{
     background: #5a5758;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
-
+h1{
+    background-color: #1b0558
+}
+table{
+margin:auto;
+border: solid green;
+}
