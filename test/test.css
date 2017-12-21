@@ -42,7 +42,7 @@ width: 100%;
 
 }
 
-th, td {
+th{
 border: solid 1px black;
 padding: 0;
 }
@@ -55,3 +55,7 @@ tr:hover td{
     background-color: #369681;
     color: white;
 }
+td{
+    border: solid 1px black;
+    padding: 0;
+    }
