@@ -40,11 +40,16 @@ background-color: black;
 text-align: left;
 width: 100%;
 
+
+
 }
 
 th{
 border: solid 1px black;
 padding: 0;
+width: 10%; 
+font-family: 'Times New Roman', Times, serif;
+
 }
 
 tr:nth-child(even){
