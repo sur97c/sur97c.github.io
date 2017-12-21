@@ -34,7 +34,7 @@ body{
 h1{
     background-color: #1b0558
 }
-table{
+table, th, td{
 margin:auto;
-border: solid green;
+border: solid rgb(12, 12, 12);
 }
