@@ -30,12 +30,23 @@ dataTable.div#body{
 }
 div.subapartado{
     width:600px;
-    min-height:50px;
-    background-color: aqua;   
+    height:60px;
+    background-color: aqua;  
 }
 div.titulo{
     width:600px;
     height:40px;
     background-color:#23965b;
+    overflow: hidden;
+}
+p.titulo{
+    margin:13px;
+    color:white;
+}
+div.info{
+    width:600px;
+    min-height:200px;
+    background-color: blue;
+
 }
 
