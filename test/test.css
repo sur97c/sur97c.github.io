@@ -30,7 +30,7 @@ dataTable.div#body{
 }
 div.subapartado{
     width:600px;
-    height:60px;
+    min-height:60px;
     background-color: aqua;  
 }
 div.titulo{
@@ -45,7 +45,7 @@ p.titulo{
 }
 div.info{
     width:600px;
-    height:250px;
+    height:0px;
     background-color: blue;
     overflow: hidden
 }
@@ -53,4 +53,7 @@ p.info{
     margin:20px;
     text-align: center;
     color: #44ff44;
+}
+div.subapartado:hover div.info{
+    height:180px; 
 }
