@@ -45,9 +45,9 @@ p.titulo{
 }
 div.info{
     width:600px;
-    height:0px;
+    height:250px;
     background-color: blue;
-    overflow: hidden;
+    overflow: hidden
 }
 p.info{
     margin:20px;
