@@ -19,6 +19,6 @@ div#menu ul li{
  border-radius: 0px 20px 20px 0px;
  padding-left: 20px;
  box-shadow: 5px 0px 10px #939393;
- -webkit-transition: cubic-bezier(0-6s);
+ -webkit-transition: padding-left 0.6s;
  color: white;
 } 
