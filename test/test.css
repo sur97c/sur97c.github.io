@@ -45,8 +45,12 @@ p.titulo{
 }
 div.info{
     width:600px;
-    min-height:200px;
+    height:0px;
     background-color: blue;
-
+    overflow: hidden;
 }
-
+p.info{
+    margin:20px;
+    text-align: center;
+    color: #44ff44;
+}
